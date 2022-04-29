@@ -1,0 +1,18 @@
+
+
+
+:root{
+  --color1:#2b616d,
+  --color2:#b2dbd5,
+  --color3:#ffffff,
+  --color4:#fa8d62
+}
+
+.App {
+  text-align: center;
+  background-color: #A1e3d2;
+}
+
+.body{
+  background-color: #6fdfdf;
+}
